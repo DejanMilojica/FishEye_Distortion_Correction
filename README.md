@@ -1,5 +1,6 @@
 # Program specification
 
+Fisheye lens distortion correction, with a specific lens specification file. Algorithm of correction is based on equisolid mapping function.
 Input image have to be yuv image
 Input and output image, have to be in data folder!
 Lens specification file, have to be in data folder!
