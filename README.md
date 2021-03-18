@@ -1,9 +1,12 @@
-#Program specification
+# Program specification
+
 Input image have to be yuv image
 Input and output image, have to be in data folder!
 Lens specification file, have to be in data folder!
 
-# Lens Specification file Have to be csv file, with just two column usage.
+## Lens Specification file
+
+Lens Spec file have to be csv file, with just two column usage.
 
 ##Organisation description:
 
